@@ -1,0 +1,5 @@
+config SHIELD_ZMK_PRACTICE01_LEFT
+    def_bool $(shields_list_contains,zmk_practice01_left)
+
+config SHIELD_ZMK_PRACTICE01_RIGHT
+    def_bool $(shields_list_contains,zmk_practice01_right)
