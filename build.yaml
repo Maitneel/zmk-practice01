@@ -20,4 +20,7 @@
 ---
 include:
   - board: xiao_ble
-  - shield: ["zmk_practice01_left", "zmk_practice01_right"]
+    shield: zmk_practice01_left
+
+  - board: xiao_ble
+    shield: zmk_practice01_right
