@@ -24,3 +24,6 @@ include:
 
   - board: xiao_ble
     shield: zmk_practice01_right
+
+  - board: xiao_ble # Replace with the Xiao-compatible board you're using
+    shield: tester_xiao
